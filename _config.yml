@@ -1,7 +1,7 @@
 # Site
 name: Elias Arruda
-description: Just another website
-meta_description: Just another website
+description: Apenas mais um site
+meta_description: Apenas mais um site
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
@@ -49,7 +49,7 @@ twitter:
 
 facebook:
   app_id:
-  publisher: john.com
+  publisher: arrudaelias.github.io
   admins:
 
 social:

@@ -1,16 +1,16 @@
 ---
 layout: post
 cover:  assets/images/3.jpg
-title: Auto deploy your static site in github
-date: 2017-12-09 12:00:00 +0545
+title: GitHub 
+date: 2020-12-09 12:00:00 +0545
 categories: blog
-author: john
-summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+author: Arruda
+summary: Como Criar um Blog Grátis no GitHub Usando o Jekyll 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Todo mundo sabe que programadores de verdade escrevem seus posts em Markdown, 
+versionam todo o conteúdo usando o Git e, claro, hospedam seus blogs no próprio 
+GitHub, certo?
+Brincadeiras à parte, neste artigo eu ensino como você pode criar gratuitamente 
+um site ou blog profissional, como este que você está lendo, usando o Jekyll, o 
+GitHub Pages e a CloudFlare.

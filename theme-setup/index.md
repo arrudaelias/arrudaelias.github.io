@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ultimate Guide to setup Prasad Jekyll theme
+title: Guia definitivo para configurar o tema Prasad Jekyll
 comments: true
 ---
 
@@ -8,10 +8,10 @@ Prasad is the modified form of Affiliates Jekyll Theme.
 
 - **Demo:** https://prasad.cdrrazan.com
 
->You can view the full live site using this theme <a href="https://cdrrazan.com" target="_blank">
+>Você pode visualizar o site ao vivo completo usando este tema <a href="https://cdrrazan.com" target="_blank">
 >HERE.</a> <br>
 
->If you need any help open the issue in <a href="https://github.com/cdrrazan/prasad/issues/new"
+>Se precisar de ajuda para abrir o problema: <a href="https://github.com/cdrrazan/prasad/issues/new"
 >target="_blank"> here.</a>
 
 

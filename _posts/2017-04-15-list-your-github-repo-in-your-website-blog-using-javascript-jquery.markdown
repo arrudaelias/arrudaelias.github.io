@@ -1,17 +1,18 @@
 ---
 layout: post
 cover:  assets/images/2.jpg
-title: List github repo in your blog
-date: 2017-04-15 12:00:00 +0545
+title: Flutter
+date: 2020-04-15 12:00:00 +0545
 categories: blog
-author: john
+author: Arruda
 featured: true
-summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+summary: E este tal de flutter, bora iniciar e entender
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Em uma bela manhã de sol, a galera do Google resolveu criar um 
+framework de desenvolvimento multi-plataforma e se deu início na 
+construção do flutter, adivinha em qual linguagem ele foi concebido?!? 
+Se você falou JS, você está certo, afinal, a taxa de natalidade de framework js 
+é maior do que a do Brasil no mês de novembro kkk. No entanto depois de 5 meses 
+de desenvolvimento eles perceberam que não iria dar certo. Então resolveram utilizar 
+o Dart, sim o Dart é pai do Flutter.

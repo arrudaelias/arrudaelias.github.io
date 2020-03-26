@@ -1,12 +1,12 @@
 # Site
-name: John Doe
+name: Elias Arruda
 description: Just another website
 meta_description: Just another website
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
 baseurl:
-email: 'hello@john.doe'
+email: 'arrudaelias1@gmail.com'
 google_analytics:
 disqus:
 sharethis:
@@ -14,13 +14,13 @@ sharethis:
 # Authors
 authors:
   john:
-    name: john
-    display_name: John Doe
+    name: elias
+    display_name: Elias Arruda
     image: /assets/images/john.jpg
-    email: hello@john.doe
+    email: arrudaelias1@gmail.com
     web: example.com
     twitter:
-    description: Hi, I am John Doe.
+    description: Olá, eu sou  Elias.
 
 # Plugins
 plugins:
@@ -44,7 +44,7 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: john
+  username: elias
   card: summary
 
 facebook:
@@ -53,7 +53,7 @@ facebook:
   admins:
 
 social:
-name: John Doe
+name: Arruda Elias
 links:
     - https://twitter.com/
     - https://www.facebook.com/

@@ -106,4 +106,4 @@ comments: true
     - Gitlab: Add .gitlab-ci.yml for building Jekyll in Gitlab Pages
     - Netlify: Visit [this netlify docs](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/)
 
-<h5> All the images posted here are for blog demo purpose only. </h5>
+<h5> Todas as imagens postadas aqui são apenas para fins de demonstração do blog. </h5>

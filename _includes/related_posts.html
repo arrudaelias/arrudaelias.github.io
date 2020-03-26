@@ -8,7 +8,7 @@
 {% endfor %}
 {% if moreThanOneInCategory == true %}
 <div class="related-posts">
-  <h3>Post relacionado em “{{ category | capitalize }}”</h3>
+  <h3>Posts relacionado em “{{ category | capitalize }}”</h3>
   <br>
   <ul>
     {% for post in posts limit: 6 %}

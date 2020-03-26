@@ -4,7 +4,7 @@ title: Guia definitivo para configurar o tema Prasad Jekyll
 comments: true
 ---
 
-Prasad is the modified form of Affiliates Jekyll Theme.
+Prasad é a forma modificada de Afiliados Jekyll Tema.
 
 - **Demo:** https://prasad.cdrrazan.com
 
